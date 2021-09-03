@@ -27,7 +27,7 @@ I am a beginner Java developer and would like to get an internship in Java devel
 *   Hibernate
 *   Git
 *   Postman/Insomnia   
-*   and so on...
+*   HTML, CSS, Bootstrap
 
 ### My opensource projects
 

@@ -24,7 +24,7 @@ I am a beginner Java developer and would like to get an internship in Java devel
 *   Java language
 *   PostgreSQL
 *   Spring Framework
-*   Hibernate
+*   JDBC/Hibernate
 *   Git
 *   Postman/Insomnia   
 *   HTML, CSS, Bootstrap
